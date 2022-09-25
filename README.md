@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Nesscafebaby
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Phyton.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
